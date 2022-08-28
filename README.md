@@ -12,15 +12,15 @@ Fox User Info game , You can lookup userid from this tools
 
 ## Installation :
 
-> apt-get update && apt-get install git python3 
+` apt-get update && apt-get install git python3 `
 
-> git clone https://github.com/BlackFoxTM/Fox-User_info_Game
+` git clone https://github.com/BlackFoxTM/Fox-User_info_Game`
 
-> cd Fox-User_info_Game
+` cd Fox-User_info_Game`
 
-> pip3 install -r reuqirements.txt
+` pip3 install -r reuqirements.txt`
 
-> python3 Fox-gameid_lookup.py
+` python3 Fox-gameid_lookup.py `
 
 
 
