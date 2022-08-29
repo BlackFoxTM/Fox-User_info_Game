@@ -1,0 +1,4 @@
+rainbowtext
+requests
+pyfiglet
+colorama
